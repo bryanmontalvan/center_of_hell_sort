@@ -12,7 +12,8 @@ to create the worst worst sorting algorthim I could using the `C` progrmming lan
 However because this is a horrible sort, the majority of array combinations will result in an infinite loop
 (Could not be infinite, but waiting such a long time would be only pain)
 
-#### Examples:
+#### Example:
+In this example we start with a 5 element array `2 4 1 5 3`
 
 ```
 2 4 1 5 3 
