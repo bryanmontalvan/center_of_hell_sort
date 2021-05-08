@@ -9,6 +9,7 @@ to create the worst worst sorting algorthim I could using the `C` progrmming lan
 * Swap the `center` element of the array with the `i`th element (starting at 0th index)
 * Iterate through the array until list is sorted
 
+**Note!**
 However because this is a horrible sort, the majority of array combinations will result in an infinite loop
 (Could not be infinite, but waiting such a long time would be only pain)
 
