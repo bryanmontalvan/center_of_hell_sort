@@ -1,6 +1,6 @@
 # 👿 Center of Hell Sort 👿
 
-A sorting algorithim created in 20 minutes. A very horrible one at that, the goal of this project was
+A sorting algorithim created in 30 minutes. A very horrible one at that, the goal of this project was
 to create the worst worst sorting algorthim I could using the `C` progrmming langauge.
 
 ### How does it work?
