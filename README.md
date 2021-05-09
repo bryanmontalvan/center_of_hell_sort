@@ -17,11 +17,11 @@ However because this is a horrible sort, the majority of array combinations will
 In this example we start with a 5 element array `2 4 1 5 3`
 
 ```
-2 4 1 5 3 
-1 4 2 5 3
-1 2 4 5 3
-1 2 4 5 3
-1 2 5 4 3
+[2] 4 [1] 5 3 
+1 [4] [2] 5 3
+1 2 [4] 5 3
+1 2 [4] [5] 3
+1 2 [5] 4 [3]
 
 Sorted in 5 steps
 1 2 3 4 5
