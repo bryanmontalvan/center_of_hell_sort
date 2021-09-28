@@ -26,7 +26,3 @@ In this example we start with a 5 element array `2 4 1 5 3`
 Sorted in 5 steps
 1 2 3 4 5
 ```
-
-#### Notes
-If you could make this sort even worse, without changing the code too much I will be both joyous and impressed!
-Feel free to recreate this in other langauges!
